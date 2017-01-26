@@ -1,4 +1,4 @@
-# spark-core-mdns
+# MDNS
 
 Multicast DNS and DNS-SD for Particle
 
